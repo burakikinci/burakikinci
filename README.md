@@ -1,7 +1,8 @@
-### Hi there 👋
-
+### Hi 👋, I'm Burak İkinci
 <!--
 **burakikinci/burakikinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning test automation.
+🎓 I graduated from Istanbul Kultur University Electrical&Electronic Engineering. 
 
 Here are some ideas to get you started:
 
